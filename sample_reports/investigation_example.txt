@@ -1,0 +1,26 @@
+THREAT HUNTING INVESTIGATION REPORT
+
+Date: 2026-06-15
+
+====================================
+
+Failed Logins: 6
+
+Brute Force Alerts: 1
+
+Suspicious IP Events: 6
+
+Privilege Escalation Events: 2
+
+====================================
+
+Severity: HIGH
+
+Recommendations:
+
+- Block malicious IP addresses
+- Review authentication logs
+- Enable MFA where possible
+- Investigate privilege escalation activity
+- Monitor for repeated login failures
+
