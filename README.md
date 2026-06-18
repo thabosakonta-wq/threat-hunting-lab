@@ -66,12 +66,16 @@ Threat-Hunting-Lab/
 - Bash Scripting
 - Linux Administration
 
-## Author
+#Author
 
 Thabo Sakonta
 
-Microsoft Certified Security Operations Analyst Associate (SC-200)
+Microsoft Certified Security Operations Analyst (SC-200)
 
-## License
+GitHub: https://github.com/thabosakonta-wq
 
-Educational and Portfolio Use
+LinkedIn: https://www.linkedin.com/in/thabo-sakonta-377a3748
+
+License
+
+This project is provided for educational and portfolio purposes.
