@@ -86,9 +86,27 @@ MITRE ATT&CK Mapping
 
 ---
 
-Screenshots
-
 ## Screenshots
+
+### Threat Hunting Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Failed Login Detection
+
+![Failed Login Detection](screenshots/failed_login_detection.png)
+
+### Brute Force Detection
+
+![Brute Force Detection](screenshots/brute_force_detection.png)
+
+### Suspicious IP Detection
+
+![Suspicious IP Detection](screenshots/suspicious_ip_detection.png)
+
+### Privilege Escalation Detection
+
+![Privilege Escalation Detection](screenshots/privilege_escalation_detection.png)
 
 ### Threat Hunting Dashboard
 
