@@ -88,30 +88,27 @@ MITRE ATT&CK Mapping
 
 Screenshots
 
-Failed Login Detection
+## Screenshots
 
-"Failed Login Detection" (screenshots/failed_login_detection.png)
+### Threat Hunting Dashboard
 
-Brute Force Detection
+![Dashboard](screenshots/dashboard.png)
 
-"Brute Force Detection" (screenshots/brute_force_detection.png)
+### Failed Login Detection
 
-Suspicious IP Detection
+![Failed Login Detection](screenshots/failed_login_detection.png)
 
-"Suspicious IP Detection" (screenshots/suspicious_ip_detection.png)
+### Brute Force Detection
 
-Privilege Escalation Detection
+![Brute Force Detection](screenshots/brute_force_detection.png)
 
-"Privilege Escalation Detection" (screenshots/privilege_escalation_detection.png)
+### Suspicious IP Detection
 
-Threat Hunting Dashboard
+![Suspicious IP Detection](screenshots/suspicious_ip_detection.png)
 
-"Threat Hunting Dashboard" (screenshots/dashboard.png)
+### Privilege Escalation Detection
 
-Investigation Report
-
-"Investigation Report" (screenshots/investigation_report.png)
-
+![Privilege Escalation Detection](screenshots/privilege_escalation_detection.png)
 ---
 
 Technologies Used
