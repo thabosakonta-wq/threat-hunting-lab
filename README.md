@@ -109,6 +109,10 @@ Screenshots
 ### Privilege Escalation Detection
 
 ![Privilege Escalation Detection](screenshots/privilege_escalation_detection.png)
+
+### Investigation Report
+
+![Investigation Report](screenshots/investigation_report.png)
 ---
 
 Technologies Used
