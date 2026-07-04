@@ -29,6 +29,17 @@ The lab demonstrates detection and investigation of:
 - Map detections to MITRE ATT&CK.
 - Produce SOC investigation reports.
 
+## Future Enhancements
+
+- Sigma Rule Integration
+- Microsoft Sentinel Integration
+- Splunk SIEM Integration
+- Elastic SIEM Integration
+- Microsoft Defender XDR Integration
+- IOC Automation
+- Threat Intelligence Feed Integration
+- Automated Hunt Scheduling
+
 ## Detection Coverage
 
 | Detection | Severity |
@@ -114,26 +125,6 @@ MITRE ATT&CK Mapping
 ---
 
 ## Screenshots
-
-### Threat Hunting Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Failed Login Detection
-
-![Failed Login Detection](screenshots/failed_login_detection.png)
-
-### Brute Force Detection
-
-![Brute Force Detection](screenshots/brute_force_detection.png)
-
-### Suspicious IP Detection
-
-![Suspicious IP Detection](screenshots/suspicious_ip_detection.png)
-
-### Privilege Escalation Detection
-
-![Privilege Escalation Detection](screenshots/privilege_escalation_detection.png)
 
 ### Threat Hunting Dashboard
 
