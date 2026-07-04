@@ -52,9 +52,9 @@ The lab demonstrates detection and investigation of:
 
 ## Reports
 
-- Executive Summary
-- Threat Hunting Investigation Report
-- MITRE ATT&CK Mapping
+- `reports/executive_summary.md`
+- `reports/threat_hunting_report.txt`
+- `reports/mitre_mapping.md`
 
 ---
 
