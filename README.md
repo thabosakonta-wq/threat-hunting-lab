@@ -56,41 +56,26 @@ The lab demonstrates detection and investigation of:
 - Threat Hunting Investigation Report
 - MITRE ATT&CK Mapping
 
+## Future Enhancements
 
-Features
-
-Failed Login Detection
-
-Detects repeated authentication failures.
-
-Brute Force Detection
-
-Identifies IP addresses generating excessive login failures.
-
-Suspicious IP Detection
-
-Matches log activity against a known malicious IP watchlist.
-
-Privilege Escalation Detection
-
-Detects sudo usage, account creation, password changes and privilege escalation indicators.
-
-Threat Hunting Dashboard
-
-Provides a summary of all detected security events.
-
-Investigation Report Generator
-
-Produces investigation reports with findings and recommendations.
+- Sigma Rule Integration
+- Microsoft Sentinel Integration
+- Splunk SIEM Integration
+- Elastic SIEM Integration
+- Microsoft Defender XDR Integration
+- IOC Automation
+- Threat Intelligence Feed Integration
+- Automated Hunt Scheduling
 
 ---
 
-MITRE ATT&CK Coverage
+## MITRE ATT&CK Coverage
 
-Technique| ATT&CK ID| Description
-Brute Force| T1110| Credential Access
-Valid Accounts| T1078| Privilege Escalation
-Create Account| T1136| Persistence
+| Technique | ATT&CK ID | Description |
+|-----------|-----------|-------------|
+| Brute Force | T1110 | Credential Access |
+| Valid Accounts | T1078 | Privilege Escalation |
+| Create Account | T1136 | Persistence |
 
 ---
 
@@ -165,8 +150,9 @@ Technologies Used
 
 ---
 
-Project Structure
+## Project Structure
 
+```text
 Threat-Hunting-Lab
 ├── detections
 │   ├── brute_force.sh
@@ -189,15 +175,16 @@ Threat-Hunting-Lab
 ├── sample_reports
 │   └── investigation_example.txt
 ├── screenshots
-│   ├── brute_force_detection.png
 │   ├── dashboard.png
 │   ├── failed_login_detection.png
-│   ├── investigation_report.png
+│   ├── brute_force_detection.png
+│   ├── suspicious_ip_detection.png
 │   ├── privilege_escalation_detection.png
-│   └── suspicious_ip_detection.png
+│   └── investigation_report.png
 ├── dashboard.sh
 ├── hunt.sh
 └── README.md
+```
 
 ---
 
