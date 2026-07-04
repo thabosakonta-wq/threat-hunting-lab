@@ -56,17 +56,6 @@ The lab demonstrates detection and investigation of:
 - Threat Hunting Investigation Report
 - MITRE ATT&CK Mapping
 
-## Future Enhancements
-
-- Sigma Rule Integration
-- Microsoft Sentinel Integration
-- Splunk SIEM Integration
-- Elastic SIEM Integration
-- Microsoft Defender XDR Integration
-- IOC Automation
-- Threat Intelligence Feed Integration
-- Automated Hunt Scheduling
-
 ---
 
 ## MITRE ATT&CK Coverage
