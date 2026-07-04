@@ -177,7 +177,7 @@ Threat-Hunting-Lab
 
 ---
 
-Learning Outcomes
+## Learning Outcomes
 
 - Threat Hunting
 - Detection Engineering
