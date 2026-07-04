@@ -29,6 +29,16 @@ The lab demonstrates detection and investigation of:
 - Map detections to MITRE ATT&CK.
 - Produce SOC investigation reports.
 
+## Detection Coverage
+
+| Detection | Severity |
+|-----------|----------|
+| Failed Login Detection | High |
+| Brute Force Detection | High |
+| Suspicious IP Detection | Medium |
+| Privilege Escalation Detection | High |
+| Persistence Detection | High |
+
 ## Future Enhancements
 
 - Sigma Rule Integration
@@ -39,16 +49,6 @@ The lab demonstrates detection and investigation of:
 - IOC Automation
 - Threat Intelligence Feed Integration
 - Automated Hunt Scheduling
-
-## Detection Coverage
-
-| Detection | Severity |
-|-----------|----------|
-| Failed Login Detection | High |
-| Brute Force Detection | High |
-| Suspicious IP Detection | Medium |
-| Privilege Escalation Detection | High |
-| Persistence Detection | High |
 
 ## Reports
 
