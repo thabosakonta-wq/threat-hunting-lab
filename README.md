@@ -19,6 +19,33 @@ The lab demonstrates detection and investigation of:
 
 ---
 
+## Objectives
+
+- Demonstrate proactive Threat Hunting.
+- Analyze authentication logs.
+- Detect brute-force attacks.
+- Investigate privilege escalation.
+- Detect persistence mechanisms.
+- Map detections to MITRE ATT&CK.
+- Produce SOC investigation reports.
+
+## Detection Coverage
+
+| Detection | Severity |
+|-----------|----------|
+| Failed Login Detection | High |
+| Brute Force Detection | High |
+| Suspicious IP Detection | Medium |
+| Privilege Escalation Detection | High |
+| Persistence Detection | High |
+
+## Reports
+
+- Executive Summary
+- Threat Hunting Investigation Report
+- MITRE ATT&CK Mapping
+
+
 Features
 
 Failed Login Detection
