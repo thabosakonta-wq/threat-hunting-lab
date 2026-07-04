@@ -190,7 +190,7 @@ Threat-Hunting-Lab
 
 ---
 
-Author
+## Author
 
 Thabo Sakonta
 
@@ -204,6 +204,6 @@ https://www.linkedin.com/in/thabo-sakonta-377a3748
 
 ---
 
-License
+## License
 
-This project is intended for educational, research and cybersecurity portfolio purposes.
+This project is intended for educational, research, and cybersecurity portfolio purposes.
