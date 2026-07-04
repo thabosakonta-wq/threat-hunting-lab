@@ -125,7 +125,7 @@ MITRE ATT&CK Mapping
 ![Investigation Report](screenshots/investigation_report.png)
 ---
 
-Technologies Used
+## Technologies Used
 
 - Bash
 - Linux
@@ -133,8 +133,8 @@ Technologies Used
 - Git
 - GitHub
 - Threat Hunting
-- MITRE ATT&CK
 - Detection Engineering
+- MITRE ATT&CK
 - SOC Operations
 
 ---
